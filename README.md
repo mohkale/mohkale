@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Friend
+
+<p align="center">
+  <a href="https://github.com/mohkale"><img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mohkale/mohkale"></a>
+  <a href="https://github.com/mohkale"><img src="https://img.shields.io/github/followers/mohkale.svg?lable=GitHub&style=social" alt="GitHub"></a>
+</p>
 
 <!--
 **mohkale/mohkale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
